@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/solaf10/usePopcorn/static/css/main.adc97c0f.css",
+    "main.js": "/solaf10/usePopcorn/static/js/main.29d82e04.js",
+    "index.html": "/solaf10/usePopcorn/index.html",
+    "main.adc97c0f.css.map": "/solaf10/usePopcorn/static/css/main.adc97c0f.css.map",
+    "main.29d82e04.js.map": "/solaf10/usePopcorn/static/js/main.29d82e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc97c0f.css",
+    "static/js/main.29d82e04.js"
+  ]
+}
